@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B43DE745-AB0D-47CD-92C4-25E513F4F342</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>b3ea32e5-604c-4fca-b5db-6ae888a3e4b3++5760</key>
+		<string>http://yangj.5166.info/1000phone/iOS/trunk/iOS/Network/douban/codes/00-%252525E7%252525BD%25252591%252525E7%252525BB%2525259C0-JSON%252525E8%252525A7%252525A3%252525E6%2525259E%25252590/0-DoubanBoo/SDWebImage</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>b3ea32e5-604c-4fca-b5db-6ae888a3e4b3++5760</key>
+		<string>SDWebImage-master--MRC</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>b3ea32e5-604c-4fca-b5db-6ae888a3e4b3++5760</key>
+		<string>http://yangj.5166.info/1000phone</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://yangj.5166.info/1000phone/iOS/trunk/iOS/Network/douban/codes/00-%252525E7%252525BD%25252591%252525E7%252525BB%2525259C0-JSON%252525E8%252525A7%252525A3%252525E6%2525259E%25252590/0-DoubanBoo/SDWebImage</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>b3ea32e5-604c-4fca-b5db-6ae888a3e4b3++5760</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>b3ea32e5-604c-4fca-b5db-6ae888a3e4b3++5760</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SDWebImage-master--MRC</string>
+		</dict>
+	</array>
+</dict>
+</plist>
